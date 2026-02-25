@@ -2,7 +2,7 @@
 
 **Cybersecurity student @SUNY Canton** | Security+ SY0-701 prep | TryHackMe labs
 
-[![Security+ Repo](https://github-readme-stats.vercel.app/api/pin/?username=tylerk1ng&repo=security-plus-notes)](https://github.com/tylerk1ng/security-plus-notes)
+[![Security+ Repo]([![Security+](https://img.shields.io/badge/Security%2B-SY0--701-blue)]username=tylerk1ng&repo=security-plus-notes)]
 
 - 🔭 Prepping CompTIA Security+ & CySA+
 - 🌱 Learning via Messer videos + THM
