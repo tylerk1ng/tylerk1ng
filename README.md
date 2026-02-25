@@ -4,7 +4,7 @@
 
 [![Security+ Repo](https://img.shields.io/badge/Security%2B_SY0--701-4285f4?style=flat&logo=github)](https://github.com/tylerk1ng/security-plus-notes)
 
-![TryHackMe Badge](thm_propic.png)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-kingxxx-00b4ff?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kingxxx)
 
 - 🔭 Prepping CompTIA Security+ & CySA+
 - 🌱 Learning via Messer videos + THM
