@@ -1,0 +1,15 @@
+name: Update THM Badge
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly Sundays
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Update TryHackMe Badge
+      uses: p4p1/tryhackme-badge-workflow@main
+      with:
+        username: kingxxx
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
