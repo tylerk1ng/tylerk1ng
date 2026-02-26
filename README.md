@@ -6,6 +6,6 @@
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-kingxxx-00b4ff?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kingxxx)
 
-- 🔭 Prepping CompTIA Security+ & CySA+
+- 🔭 Prepping CompTIA Security+
 - 🌱 Learning via Messer videos + THM
 - 💼 SUNY BS Cybersecurity
